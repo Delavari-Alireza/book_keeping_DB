@@ -11,16 +11,16 @@ Welcome to the "Book Keeping System" project developed using Flask. This project
 The project is organized into four main phases:
 
 1. **Phase 1: Proposal (In Persian)**
-   - This folder contains the proposal document detailing the project's scope, objectives, and initial plans. [View Proposal](/phaze%201)
+   - This folder contains the proposal document detailing the project's scope, objectives, and initial plans. 
 
 2. **Phase 2: EER Diagram**
-   - The EER (Enhanced Entity-Relationship) diagram, representing the conceptual database design, is available in this folder. [View EER Diagram](/phaze%202)
+   - The EER (Enhanced Entity-Relationship) diagram, representing the conceptual database design, is available in this folder. 
 
 3. **Phase 3: Database Tables**
-   - Here, you'll find the SQL scripts to create the necessary database tables based on the EER diagram. [View Database Tables](/phaze%203)
+   - Here, you'll find the SQL scripts to create the necessary database tables based on the EER diagram. 
 
 4. **Phase 4: Flask Codes**
-   - This folder houses the Flask application codes that implement the book keeping system. [View Flask Codes](/phaze%204)
+   - This folder houses the Flask application codes that implement the book keeping system. 
 
 ## Installation and Setup
 
