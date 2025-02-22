@@ -26,7 +26,7 @@ The project is organized into four main phases:
 
 To run the Flask application and explore the book keeping system, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/Alireza499/book_keeping_DB.git`
+1. Clone this repository: `git clone https://github.com/Delavari-Alireza/book_keeping_DB.git`
 2. Set up a virtual environment (recommended).
 3. Install the required dependencies: `pip install -r requirements.txt`
 4. Configure the database connection details in the Flask application.
