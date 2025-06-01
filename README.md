@@ -14,12 +14,15 @@ The project is organized into four main phases:
    - This folder contains the proposal document detailing the project's scope, objectives, and initial plans. 
 
 2. **Phase 2: EER Diagram**
-   - The EER (Enhanced Entity-Relationship) diagram, representing the conceptual database design, is available in this folder. 
+   - The EER (Enhanced Entity-Relationship) diagram, representing the conceptual database design, is available in this folder.
 
-3. **Phase 3: Database Tables**
+   ![The EER (Enhanced Entity-Relationship) diagram](phaze%202/EER.png)
+   
+
+4. **Phase 3: Database Tables**
    - Here, you'll find the SQL scripts to create the necessary database tables based on the EER diagram. 
 
-4. **Phase 4: Flask Codes**
+5. **Phase 4: Flask Codes**
    - This folder houses the Flask application codes that implement the book keeping system. 
 
 ## Installation and Setup
